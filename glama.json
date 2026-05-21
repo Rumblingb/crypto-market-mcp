@@ -1,6 +1,8 @@
 {
   "$schema": "https://glama.ai/mcp/schemas/server.json",
-  "maintainers": [
-    "Rumblingb"
-  ]
+  "maintainers": ["Rumblingb"],
+  "description": "Real-time crypto prices via CoinGecko — 1000+ coins, OHLCV, trends. Free.",
+  "categories": ["finance"],
+  "license": "MIT",
+  "homepage": "https://rumblingb.github.io/crypto-market-mcp/"
 }
